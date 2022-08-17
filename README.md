@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# DPS. Taller 2. Conversor de temperatura. Alumno: Roberto Carlos López Abarca LA181955
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
